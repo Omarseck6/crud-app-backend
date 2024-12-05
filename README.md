@@ -1,5 +1,7 @@
 # README for CRUD-app Backend (.NET Core)
 
+![Aperçu du formulaire de contact](./img1.png)
+
 ## Description
 
 The backend of the CRUD-app is a RESTful API built using .NET Core. It provides the functionality for managing data and serves as the data source for the frontend.
