@@ -52,11 +52,11 @@ Before running this project, ensure you have the following installed:
 
 The API exposes the following endpoints:
 
-- **GET /api/items**: Retrieve all items
-- **GET /api/items/{id}**: Retrieve an item by ID
-- **POST /api/items**: Create a new item
-- **PUT /api/items/{id}**: Update an existing item
-- **DELETE /api/items/{id}**: Delete an item
+- **POST /api/Employee**: Create New Employee
+- **GET /api/Employee**: Get All Employee 
+- **GET /api/Employee{id}**: Get Employee by id
+- **PUT /api/items/{id}**: Update an existing Employee
+- **DELETE /api/items/{id}**: Delete an Employee
 
 ---
 
